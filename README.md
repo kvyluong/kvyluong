@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kvyluong
+- 👀 I’m interested in the coding world.
+- 🌱 I am studying the ways of SQL and Python.
+- 📫 You can reach me at kvy.luong@gmail.com
